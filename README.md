@@ -1,6 +1,5 @@
 # mpc_graph_theory_lib (and `SCALE-MAMBA` implementation of basic graph theory functionality)
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://eprint.iacr.org/2017/971)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://cryptography.tii.ae/about-us)\
 This repository includes (currently we only recommend experimentation):
 
