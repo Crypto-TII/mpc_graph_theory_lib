@@ -10,7 +10,7 @@ This repository includes (currently we only recommend experimentation):
 
 ## Pre-requisites
 * `SCALE-MAMBA` 1.11 or above. 
-* `numpy` 1.16 or above. (exclusively to __test__, which in this context means, execute [`test_relu.mpc`](beyond_rabbit/test_relu/test_relu.mpc)).
+* `numpy` 1.16 or above. (exclusively to __test__, which in this context means, execute [`test_graph.mpc`](mpc_graph_theory_lib/test_graph/test_graph.mpc)).
 
 ## Installation and Configuration
 1. Download and configure `SCALE-MAMBA`:
