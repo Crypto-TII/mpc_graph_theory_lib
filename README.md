@@ -9,7 +9,7 @@ This repository includes (currently we only recommend experimentation):
 
 ## Pre-requisites
 * `SCALE-MAMBA` 1.11 or above. 
-* `numpy` 1.16 or above. (exclusively to __test__, which in this context means, execute [`test_graph.mpc`](mpc_graph_theory_lib/test_graph/test_graph.mpc)).
+* `numpy` 1.16 or above. (exclusively to __test__, which in this context means, execute [`test_graph_lib.mpc`](Programs/test_graph/test_graph.mpc)). You can also use []`FANNG-MPC`](https://github.com/Crypto-TII/FANNG-MPC).Just replace the existing library by this one and add the test file.
 
 ## Installation and Configuration
 1. Download and configure `SCALE-MAMBA`:
@@ -29,6 +29,6 @@ Abdelrahaman ALY
 * Abdelrahaman ALY
 
 
-Copyright (c) 2022 Technology Innovation Institute - Cryptography Research Centre.\
+Copyright (c) 2022-2023 Technology Innovation Institute - Cryptography Research Centre.\
 Licensed under the MIT license.
 
